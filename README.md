@@ -23,8 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![图片](src)
-https://github.com/doubleMu7/doubleMu7.github.io/blob/main/logo.JPG
+[Link](url) and ![图片](src=“https://github.com/doubleMu7/doubleMu7.github.io/blob/main/logo.JPG”)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
